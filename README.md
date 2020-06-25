@@ -1,7 +1,7 @@
 # Responsive portfolio
 
 A clean, beautiful and responsive portfolio template
-to access it click ![Click here](https://conteudosim.com.br/)
+to access it click [Click here](https://conteudosim.com.br/)
 
 ## Desktop screenshots
 
