@@ -3,7 +3,8 @@
 A clean, beautiful and responsive portfolio template
 to access it click [Click here](https://conteudosim.com.br/)
 <br />
-or go to https://conteudosim.com.br/
+<br />
+https://conteudosim.com.br/
 
 ## Desktop screenshots
 
