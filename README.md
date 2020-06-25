@@ -1,17 +1,21 @@
-# Responsive single page portfolio
+# Responsive portfolio
 
 A clean, beautiful and responsive portfolio template
 
 ## Desktop screenshots
-![Alt text](screens/desktop-1.png?raw=true "Desktop screenshot 1")
+
+### Screenshot 1
+![Desktop-1](screens/desktop-1.png?raw=true "Desktop screenshot 1")
 <br />
 
-![Alt text](screens/desktop-2.png?raw=true "Desktop screenshot 2")
+### Screenshot 2
+![Desktop-2](screens/desktop-2.png?raw=true "Desktop screenshot 2")
 <br />
 
-![Alt text](screens/desktop-3.png?raw=true "Desktop screenshot 3")
+### Screenshot 3
+![Desktop-3](screens/desktop-3.png?raw=true "Desktop screenshot 3")
 <br />
 
 ## Mobile screenshots
-![Alt text](screens/mobile-1.png?raw=true "Mobile screenshot 1")
-![Alt text](screens/mobile-2.png?raw=true "Mobile screenshot 2")
+![Mobile-1](screens/mobile-1.png?raw=true "Mobile screenshot 1")
+![Mobile-2](screens/mobile-2.png?raw=true "Mobile screenshot 2")
